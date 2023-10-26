@@ -1,0 +1,5 @@
+llama_hub
+llama_index
+openai-whisper
+ffmpeg-python
+ffmpeg
